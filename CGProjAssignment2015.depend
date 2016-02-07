@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1443431835 source:c:\users\x\documents\computer graphics\2015 cgproj 1112701371 hariz bin mohamed mustafa\assignment.cpp
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Assignment.hpp"
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1436164444 c:\users\x\documents\computer graphics\2015 cgproj 1112701371 hariz bin mohamed mustafa\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1443431799 c:\users\x\documents\computer graphics\2015 cgproj 1112701371 hariz bin mohamed mustafa\assignment.hpp
+	"CGLabmain.hpp"
+
+1442743195 source:c:\users\x\documents\computer graphics\2015 cgproj 1112701371 hariz bin mohamed mustafa\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"Assignment.hpp"
+
